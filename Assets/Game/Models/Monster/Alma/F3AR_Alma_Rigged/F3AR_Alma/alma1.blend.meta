@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: b1a11a1e90d787a45b6981e2dc082519
+timeCreated: 1505914851
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Base
+    100006: Chest
+    100008: Left_Collar
+    100010: Left_Finger_1_1
+    100012: Left_Finger_1_2
+    100014: Left_Finger_1_3
+    100016: Left_Finger_2_2
+    100018: Left_Finger_2_3
+    100020: Left_Finger_3_1
+    100022: Left_Finger_3_2
+    100024: Left_Finger_3_3
+    100026: Left_Finger_4_1
+    100028: Left_Finger_4_2
+    100030: Left_Finger_4_3
+    100032: Left_Foot
+    100034: Left_Lowerarm
+    100036: Left_Lowerarm_001
+    100038: Left_Lowerarm_002
+    100040: Left_Lowerleg
+    100042: Left_Thigh
+    100044: Left_Thumb_1
+    100046: Left_Thumb_2
+    100048: Left_Toe
+    100050: Left_Upperarm
+    100052: Lower_Chest
+    100054: Model001_24_head_0_7_0_0
+    100056: Model001_25_body_0_7_0_0
+    100058: Model001_6_hair_0_3_0_0
+    100060: Pelvis
+    100062: Stomach
+    100064: Upper_Chest
+    100066: Upper_Smotach
+    400000: //RootNode
+    400002: Armature
+    400004: Base
+    400006: Chest
+    400008: Left_Collar
+    400010: Left_Finger_1_1
+    400012: Left_Finger_1_2
+    400014: Left_Finger_1_3
+    400016: Left_Finger_2_2
+    400018: Left_Finger_2_3
+    400020: Left_Finger_3_1
+    400022: Left_Finger_3_2
+    400024: Left_Finger_3_3
+    400026: Left_Finger_4_1
+    400028: Left_Finger_4_2
+    400030: Left_Finger_4_3
+    400032: Left_Foot
+    400034: Left_Lowerarm
+    400036: Left_Lowerarm_001
+    400038: Left_Lowerarm_002
+    400040: Left_Lowerleg
+    400042: Left_Thigh
+    400044: Left_Thumb_1
+    400046: Left_Thumb_2
+    400048: Left_Toe
+    400050: Left_Upperarm
+    400052: Lower_Chest
+    400054: Model001_24_head_0_7_0_0
+    400056: Model001_25_body_0_7_0_0
+    400058: Model001_6_hair_0_3_0_0
+    400060: Pelvis
+    400062: Stomach
+    400064: Upper_Chest
+    400066: Upper_Smotach
+    2300000: Model001_24_head_0_7_0_0
+    2300002: Model001_25_body_0_7_0_0
+    2300004: Model001_6_hair_0_3_0_0
+    3300000: Model001_24_head_0_7_0_0
+    3300002: Model001_25_body_0_7_0_0
+    3300004: Model001_6_hair_0_3_0_0
+    4300000: Model001_25_body_0_7_0_0
+    4300002: Model001_6_hair_0_3_0_0
+    4300004: Model001_24_head_0_7_0_0
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

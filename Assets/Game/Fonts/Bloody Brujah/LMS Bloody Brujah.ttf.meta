@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 09c838ae5aadf9e459bbe32ab7927d2b
+timeCreated: 1506623855
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LMS Bloody Brujah
+  fontNames:
+  - LMS Bloody Brujah
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
